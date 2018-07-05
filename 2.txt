@@ -1,2 +1,4 @@
 code 1
-
+^M
+^M
+code 2
